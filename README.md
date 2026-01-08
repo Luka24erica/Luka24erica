@@ -1,6 +1,4 @@
 ### Olá! Eu sou a Luka Machado
-- 🔭 I’m currently working on ...
-- 🌱 Estudando Front e back-end
 - 📫  Contate-me no email: luka.erica.machado.neves@gmail.com
 - 😄 Pronouns: ela/dela
 
